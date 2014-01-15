@@ -1,0 +1,22 @@
+== Changelog ==
+= Version 1.0.4 (November 26, 2013) =
+	* Updating options to use new settings API
+
+= Version 1.0.3 (October 31, 2013) =
+	* Adding placeholder image
+
+= Version 1.0.2 (September 20, 2013) =
+	* Creator issue fix
+
+= Version 1.0.1 (July 8, 2013) =
+	* Lightbox improvements
+	* Updated EXIF widget
+	* Added css styling for SellMedia shortcodes
+	* Added sell media previous/next item navigation
+	* Added "starting at" price on single item pages
+	* Search results improvements when using the standard WordPress search widget
+	* Fixed contributor option
+	* Fixed "more" tag in blog posts
+
+= Version 1.0 (June 26, 2013) =
+	* Initial release
